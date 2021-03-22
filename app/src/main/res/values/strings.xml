@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lower-Higher-Game</string>
+    <string name="heading">Can You Guess Number Between 1 to 100??</string>
+    <string name="guess_button">Guess It</string>
+    <string name="restart_game_button">Restart Game</string>
+    <string name="field_hint">Enter Number</string>
+</resources>
